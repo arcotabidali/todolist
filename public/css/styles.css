@@ -1,6 +1,6 @@
 html {
   background-color: #E4E9FD;
-  background-image: url("wood.png");
+  background-image: url("wood.jpg");
   /* background-image: -webkit-linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%); */
   min-height: 1000px;
   font-family: 'helvetica neue';
@@ -24,7 +24,7 @@ h4{
 }
 
 #heading {
-  background-color: #D7A37E;
+  background-color: #38251B;
   text-align: center;
 }
 
@@ -41,7 +41,7 @@ h4{
 
 input:checked+p {
   text-decoration: line-through;
-  text-decoration-color: #D7A37E;
+  text-decoration-color: #38251B;
 }
 
 input[type="checkbox"] {
@@ -66,7 +66,7 @@ button {
   width: 50px;
   border-radius: 50%;
   border-color: transparent;
-  background-color: #D7A37E;
+  background-color: #38251B;
   color: #fff;
   font-size: 30px;
   padding-bottom: 6px;
@@ -86,7 +86,7 @@ input[type="text"] {
 
 input[type="text"]:focus {
   outline: none;
-  box-shadow: inset 0 -3px 0 0 #D7A37E;
+  box-shadow: inset 0 -3px 0 0 #38251B;
 }
 
 ::placeholder {

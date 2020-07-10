@@ -79,7 +79,7 @@ app.get("/:customListName/:customHeading",function(req,res){
 
   const customListName =   _.capitalize(req.params.customListName+"/"+req.params.customHeading);
   const customHeading =  _.capitalize(req.params.customHeading);
-console.log(customListName);
+
 
  List.find({name:customListName},function(err,listArray){
   if(listArray.length===0){

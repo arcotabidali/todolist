@@ -4,7 +4,7 @@ h1{
 }
 
 body{
-  background-image: url("wood.png");
+  background-image: url("wood.jpg");
   margin-top: 10%;
 }
 
@@ -49,7 +49,7 @@ margin-bottom: -1px;
 }
 
 .head{
-  background-color: #D7A37E;
+  background-color: #38251B;
 margin: 2px;
 color: white;
 font-size: 20rem;
